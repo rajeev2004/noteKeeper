@@ -26,9 +26,10 @@ NoteKeeper is a simple yet powerful application that allows users to manage thei
 - React.js
 
 ## Demo
+You can check out the live application [here](https://rajeev2004.github.io/noteKeeper/).
 
 ![Screenshot (105)](https://github.com/user-attachments/assets/7a3dc7cd-4a49-4585-b631-9402f737e1dc)
 
 
-You can check out the live application [here](https://rajeev2004.github.io/noteKeeper/).
+
 
